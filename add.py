@@ -5,5 +5,5 @@ second_number = st.number_input('Enter the second number')
 def multiply(first, second):
     result = first * second
     return result
-st.write(" This is the result":multiply(first, second))
+st.write(" This is the result:"multiply(first, second))
   
