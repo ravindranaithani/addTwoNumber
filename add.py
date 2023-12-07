@@ -1,2 +1,1 @@
-def Add(a,b) :
-  return a+b
+Print('Hello India')
