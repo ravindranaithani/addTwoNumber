@@ -1,1 +1,2 @@
-Print('Hello India')
+import streamlit as st
+st.title('Hello India')
